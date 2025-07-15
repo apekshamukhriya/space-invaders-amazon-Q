@@ -35,4 +35,5 @@ This project helped me explore AI-assisted development, learn AWS tools, and bui
 Make sure Python and PyGame are installed, then:
 
 ```bash
+pip install -r requirements.txt
 python3.11 space_invaders_game.py
